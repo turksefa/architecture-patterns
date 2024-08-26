@@ -1,0 +1,15 @@
+C:\Users\IT\Desktop\Architecture Patterns\Layered\Layered.BLL\bin\Debug\net8.0\Layered.BLL.deps.json
+C:\Users\IT\Desktop\Architecture Patterns\Layered\Layered.BLL\bin\Debug\net8.0\Layered.BLL.dll
+C:\Users\IT\Desktop\Architecture Patterns\Layered\Layered.BLL\bin\Debug\net8.0\Layered.BLL.pdb
+C:\Users\IT\Desktop\Architecture Patterns\Layered\Layered.BLL\bin\Debug\net8.0\Layered.DAL.dll
+C:\Users\IT\Desktop\Architecture Patterns\Layered\Layered.BLL\bin\Debug\net8.0\Layered.DAL.pdb
+C:\Users\IT\Desktop\Architecture Patterns\Layered\Layered.BLL\obj\Debug\net8.0\Layered.BLL.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\Architecture Patterns\Layered\Layered.BLL\obj\Debug\net8.0\Layered.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT\Desktop\Architecture Patterns\Layered\Layered.BLL\obj\Debug\net8.0\Layered.BLL.AssemblyInfoInputs.cache
+C:\Users\IT\Desktop\Architecture Patterns\Layered\Layered.BLL\obj\Debug\net8.0\Layered.BLL.AssemblyInfo.cs
+C:\Users\IT\Desktop\Architecture Patterns\Layered\Layered.BLL\obj\Debug\net8.0\Layered.BLL.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\Architecture Patterns\Layered\Layered.BLL\obj\Debug\net8.0\Layered..C797E708.Up2Date
+C:\Users\IT\Desktop\Architecture Patterns\Layered\Layered.BLL\obj\Debug\net8.0\Layered.BLL.dll
+C:\Users\IT\Desktop\Architecture Patterns\Layered\Layered.BLL\obj\Debug\net8.0\refint\Layered.BLL.dll
+C:\Users\IT\Desktop\Architecture Patterns\Layered\Layered.BLL\obj\Debug\net8.0\Layered.BLL.pdb
+C:\Users\IT\Desktop\Architecture Patterns\Layered\Layered.BLL\obj\Debug\net8.0\ref\Layered.BLL.dll

@@ -1,0 +1,11 @@
+C:\Users\IT\Desktop\Architecture Patterns\ntier\App.DAL\bin\Debug\net8.0\App.DAL.deps.json
+C:\Users\IT\Desktop\Architecture Patterns\ntier\App.DAL\bin\Debug\net8.0\App.DAL.dll
+C:\Users\IT\Desktop\Architecture Patterns\ntier\App.DAL\bin\Debug\net8.0\App.DAL.pdb
+C:\Users\IT\Desktop\Architecture Patterns\ntier\App.DAL\obj\Debug\net8.0\App.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT\Desktop\Architecture Patterns\ntier\App.DAL\obj\Debug\net8.0\App.DAL.AssemblyInfoInputs.cache
+C:\Users\IT\Desktop\Architecture Patterns\ntier\App.DAL\obj\Debug\net8.0\App.DAL.AssemblyInfo.cs
+C:\Users\IT\Desktop\Architecture Patterns\ntier\App.DAL\obj\Debug\net8.0\App.DAL.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\Architecture Patterns\ntier\App.DAL\obj\Debug\net8.0\App.DAL.dll
+C:\Users\IT\Desktop\Architecture Patterns\ntier\App.DAL\obj\Debug\net8.0\refint\App.DAL.dll
+C:\Users\IT\Desktop\Architecture Patterns\ntier\App.DAL\obj\Debug\net8.0\App.DAL.pdb
+C:\Users\IT\Desktop\Architecture Patterns\ntier\App.DAL\obj\Debug\net8.0\ref\App.DAL.dll

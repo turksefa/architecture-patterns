@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "kkjquQF57FhD74inYCpGLul/E7uPyUNQo4+tR9J8cG8b+hHspjZz1Cs9gwArR75WA/qJyLKAY1YJO5R1zrP54A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IT\\Desktop\\Architecture Patterns\\ntier\\App.BLL\\App.BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IT\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\IT\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\IT\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\IT\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\IT\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
